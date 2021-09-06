@@ -94,7 +94,7 @@
       "MEMO:Online Payment                                                        NETAMT:Rs 287034\n",
       "\n",
       "\n",
-      "                            Thank-You for your visit!!!\n"
+      "                            aap ke sewa me hamesha rahenge  visit!!!\n"
      ]
     }
    ],
